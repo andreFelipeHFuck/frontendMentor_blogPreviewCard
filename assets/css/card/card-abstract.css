@@ -1,4 +1,11 @@
 .card__abstract{
     color: var(--grey);
     line-height: 25px;   
+    margin-top: 1em;
+}
+
+@media screen and (min-width: 1440px) {
+    .card__abstract{
+        margin-top: 1.2em;
+    }
 }
