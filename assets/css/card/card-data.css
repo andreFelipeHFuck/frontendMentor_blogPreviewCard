@@ -1,0 +1,6 @@
+.card__data{
+    color: var(--black);
+    font-size: 14px;
+    margin-top: 1em;
+    margin-bottom: 0;
+}
